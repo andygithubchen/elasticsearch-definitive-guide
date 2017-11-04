@@ -98,3 +98,8 @@ NOTE：你可以直接从这里 https://download.elastic.co/elastic/sense/sense-
 <1> Windows 上启动 kibana: `bin\kibana.bat` 。
 
 . 在你的浏览器中打开 Sense: `http://localhost:5601/app/sense` 。
+
+[TIP]
+====
+从Kibana 5开始改名并直接内建在Kibana，就是Dev Tools选项。
+====
